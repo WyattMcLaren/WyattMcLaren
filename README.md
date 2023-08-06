@@ -1,4 +1,13 @@
-### Hi there 👋
+### SYN -> SYN,ACK -> ACK 👋
+
+Good to see you here.
+
+Some quick facts about my current status:
+-  Currently studying for the CCNA
+-  Active university student studying Computer Science
+-  Looking to collaborate on networking-related projects
+-  Career goals: network engineer -> network architect -> dev/sec ops (because the cloud will eventually take over)
+-  Fun fact: recumbent biker
 
 <!--
 **WyattMcLaren/WyattMcLaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
