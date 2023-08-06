@@ -1,6 +1,6 @@
 ### SYN -> SYN,ACK -> ACK 👋
 
-Good to see you here.
+**Good to see you here.**
 
 Some quick facts about my current status:
 -  Currently studying for the CCNA
