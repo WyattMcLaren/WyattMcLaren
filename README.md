@@ -3,10 +3,10 @@
 **Good to see you here.**
 
 Some quick facts about my current status:
--  Currently studying for the CCNA
+-  Currently studying Devops related topics (Docker, Kubernetes, Terraform, Jenkins)
 -  Active university student studying Computer Science
 -  Looking to collaborate on networking-related projects
--  Career goals: network engineer -> network architect -> dev/sec ops (because the cloud will eventually take over)
+-  Career goals: network engineer/Linux administrator -> network/system architect -> dev/sec ops (because the cloud will eventually take over)
 -  Fun fact: recumbent biker
 
 <!--
